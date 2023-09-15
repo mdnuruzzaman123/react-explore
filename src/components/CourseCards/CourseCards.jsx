@@ -20,8 +20,7 @@ const CourseCards = ({ handleClickCartData }) => {
         <CourseSingleCard
           key={card.id}
           handleClickCartData={handleClickCartData}
-          card={card}
-        ></CourseSingleCard>
+          card={card}></CourseSingleCard>
       ))}
     </div>
   );
