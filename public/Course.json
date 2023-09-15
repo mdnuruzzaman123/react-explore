@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/tY47nkk/Rectangle-2-2.png",
+      "title": "C Programming",
+      "description": "Master C programming. Build practical applications, gain a strong foundation in software development.",
+      "price": 49.99,
+      "credit": 3,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/SsFDfGL/Rectangle-2-3.png",
+      "title": "Algorithms",
+      "description": "Learn algorithms. Design and analyze efficient algorithms, enhance problem-solving skills.",
+      "price": 79.99,
+      "credit": 10,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/D9sFNTk/Rectangle-2-4.png",
+      "title": "C++ Programming",
+      "description": "Master C++. Gain expertise in software development, from basics to advanced concepts.",
+      "price": 59.99,
+      "credit": 4,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/XJQVYCp/Rectangle-3.png",
+      "title": "Basic Data Structures",
+      "description": "Explore data structures. Solve real-world problems, build a strong programming foundation.",
+      "price": 54.99,
+      "credit": 4,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/RHZLxvt/Rectangle-2.png",
+      "title": "Python Programming",
+      "description": "Unlock Python's versatility. Cover essentials, apply for web development and data analysis.",
+      "price": 89.99,
+      "credit": 5,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/94445YZ/Rectangle-2-5.png",
+      "title": "Software Engineering",
+      "description": "Become a skilled software engineer. Explore methodologies, best practices, design principles.",
+      "price": 99.99,
+      "credit": 12,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co/zRcYcdS/Rectangle-3-1.png",
+      "title": "AWS Cloud Computing",
+      "description": "Harness AWS cloud power. Deploy, manage, optimize cloud-based applications.",
+      "price": 69.99,
+      "credit": 5,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 8,
+      "image": "https://i.ibb.co/vxFwbjB/Rectangle-2-1.png",
+      "title": "Database (MySQL)",
+      "description": "Master MySQL. Proficiently manage SQL, create relational databases for applications.",
+      "price": 49.99,
+      "credit": 3,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co/V3HBMDs/Rectangle-2-6.png",
+      "title": "Problem Solving",
+      "description": "Enhance problem-solving. Tackle diverse problems, improve coding and analytical skills.",
+      "price": 74.99,
+      "credit": 2,
+      "dollar_img":"https://i.ibb.co/HHMJY3J/dollar-sign-1.png",
+      "credit_img":"https://i.ibb.co/FswyPgs/Frame.png"
+    }
+]
+  
